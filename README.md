@@ -20,3 +20,9 @@ I build reliable systems for regulated and high-accountability environments.
 - Reliability and production hardening
 - AI/LLM workflow infrastructure
 - Evidence and provenance surfaces
+
+
+## Current work
+- Building my portfolio www.jeffreyplewak.com
+- KProveEngine
+- Agentic AI Core, mcp, production level agents
